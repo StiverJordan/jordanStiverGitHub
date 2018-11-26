@@ -1,0 +1,193 @@
+@charset "UTF-8";
+
+body {
+    margin: 0 5rem;
+    background-color: #6b8f6b;
+    font-family: monospace;
+    font-size: smaller;
+}
+
+#data-img-quote {
+	margin: 1rem 0rem 2rem;
+}
+
+#data-ul {
+	list-style: none;
+    font-size: 1rem;
+}
+
+#description-li {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    border-bottom: double 10px #487a48;
+    margin: -1rem 0 1rem -3rem;
+}
+
+ .forecast {
+	display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 0 2rem;
+}
+.forecast > div {
+    border: solid;
+    background-color: white;
+    margin: 0 3%;
+}
+ 
+.forecast img{
+	width: 160px;
+	height: 160px;
+}
+
+h2 {
+ 	display: flex;
+    justify-content: center;
+	font-size: 2rem;
+}
+header {
+	background-color: gray;
+}
+
+header img {
+	width: 50%;
+    height: auto;
+}
+
+html {
+	background-color: #487a48;
+
+}
+li img {
+    height: 20rem;
+    width: auto;
+}
+
+.main-content {
+	margin: 2rem auto 2rem;
+}
+
+nav {
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    height: 50px;
+    background-color: slategrey;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-ul {
+	list-style: none;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+nav ul li {
+    text-decoration: solid;
+    background-color: #7a88b999;
+    color: #000000;
+    padding: 6px 20px 6px 20px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    border-radius: 25px;
+    margin-right: auto;
+}
+
+#name-climate {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#name-description {
+	display:grid;
+	justify-content: center;
+}
+
+ul #description {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+}
+
+#park-name {
+	font-size: 76px;
+	text-align: center;
+}
+#park-climate {
+    font-size: 1rem;
+}
+
+#park-name-home {
+	font-size: 3rem;
+    text-align: center;
+}
+#park-description-home {
+    font-size: 1rem;
+    text-align: center;
+    margin: 1rem 2rem;
+}
+#park-description {
+    font-size: 25px;
+    text-align: -webkit-center;
+    margin: 50px 300px;
+}
+
+#park-img {
+	height: 300px;
+	width : auto;
+	margin: auto;
+}
+
+.survey {
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    align-items: self-start;
+    padding: 5% 31%;
+}
+
+#quote-ul{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+}
+
+#quote-ul form {
+	    font-size: 130%
+}
+
+.weather-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ 
+ #weather-description {
+ display: flex;
+ }
+ 
+
+ 
+#data-img-quote {
+ display: flex;
+}
+ 
+#weather-img{
+	margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
