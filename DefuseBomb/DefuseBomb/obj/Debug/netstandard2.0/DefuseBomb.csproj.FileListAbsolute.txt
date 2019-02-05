@@ -1,0 +1,12 @@
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/bin/Debug/netstandard2.0/DefuseBomb.deps.json
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/bin/Debug/netstandard2.0/DefuseBomb.dll
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/bin/Debug/netstandard2.0/DefuseBomb.pdb
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/obj/Debug/netstandard2.0/DefuseBomb.csprojAssemblyReference.cache
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/obj/Debug/netstandard2.0/DefuseBomb.csproj.CoreCompileInputs.cache
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/obj/Debug/netstandard2.0/DefuseBomb.AssemblyInfoInputs.cache
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/obj/Debug/netstandard2.0/DefuseBomb.AssemblyInfo.cs
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/obj/Debug/netstandard2.0/DefuseBomb.dll
+/Users/jordanstiver/Projects/DefuseBomb/DefuseBomb/obj/Debug/netstandard2.0/DefuseBomb.pdb

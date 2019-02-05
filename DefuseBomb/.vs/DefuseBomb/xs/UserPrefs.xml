@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A490D013-0060-4FC1-892A-4568DEEE1DA7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DefuseBomb/MainPage.xaml">
+    <Files>
+      <File FileName="DefuseBomb/MainPage.xaml.cs" Line="28" Column="27" />
+      <File FileName="DefuseBomb/MainPage.xaml" Line="22" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DefuseBomb.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DefuseBomb.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
